@@ -1,0 +1,8 @@
+footer {
+  background: var(--blue);
+  color: #fff;
+  padding: 15px 0;
+}
+footer img {
+  width: 25px;
+}
